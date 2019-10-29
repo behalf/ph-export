@@ -13,7 +13,7 @@ var canvasHeight = calcUnit*row+horizontalPadding*2;
 
 // load images
 function preload() {
-  img = loadImage('data/menu.1023.01b-radial-i.png');
+  img = loadImage('menu.1029-radial.png');
 }
 
 function setup() {
