@@ -17,7 +17,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(canvasWidth,canvasHeight, SVG);
+  createCanvas(canvasWidth,canvasHeight);
   background(255);
   noStroke();
   smooth();
